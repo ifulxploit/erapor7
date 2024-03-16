@@ -986,10 +986,10 @@
   resolved "https://registry.yarnpkg.com/@casl/vue/-/vue-1.2.3.tgz#ba835f71746334cddc6a97aa879e7b77d7472451"
   integrity sha512-vdDa2UN79+b4NHa6pseaVJOxFcrVKvZBzpVYAdXqB71l+NzK6l76gLKqCFe7r+u6KiabY8ZwqGhfZ4MYfbMoBg==
 
-"@coders-tm/vue-number-format@^3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@coders-tm/vue-number-format/-/vue-number-format-3.3.1.tgz#06e815cf5ba1defd57d292e32bacad92bb9162a7"
-  integrity sha512-NAFONAUefju8HjvBwRG29H9bR0/kZcFQIePFty/1l4OTP9Ketz1PiMt5ROu30Et0dkKIFVgCRl4x1E2sr9S2ew==
+"@coders-tm/vue-number-format@^3.34.1":
+  version "3.34.1"
+  resolved "https://registry.yarnpkg.com/@coders-tm/vue-number-format/-/vue-number-format-3.34.1.tgz#07f3596657610daa83e678661df0d4d1dd7e7662"
+  integrity sha512-dUHS15GbG+VTViw6WUnwhYBvtm1FNO4hO1fvRtDWRzsjYnTl9Kp9oHdh7wINa/nMdP7/w4PEalrzUuCUCfQ+fw==
 
 "@foliojs-fork/fontkit@^1.9.1":
   version "1.9.1"
